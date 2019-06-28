@@ -24,7 +24,9 @@ Nos descargará el instalador en nuestro equipo
 
 Deberemos ahora "arrancarlo", mediante el comando
 
-**sudo bash pinet**
+```
+sudo bash pinet
+```
 
 y comenzará la Instalación
 
