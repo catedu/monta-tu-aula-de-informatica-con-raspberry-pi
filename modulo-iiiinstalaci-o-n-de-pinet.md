@@ -12,7 +12,9 @@ Su instalación resulta bastante sencilla;
 
 Una vez abierto escribiremos el siguiente comando \(respetemos guiones y barras\):
 
-**wget --content-disposition **[http://bit.ly/pinetbeta](http://bit.ly/pinetbeta)
+```bash
+wget --content-disposition http://links.pinet.org.uk/jessie-stable-pinet
+```
 
 ![](/assets/vc.png)
 
